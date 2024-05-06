@@ -6,7 +6,7 @@ Aspiring Game Dev
 
 * 🌍  I'm based in Jakarta, Indonesia
 * ✉️  You can contact me at [shaynedeizra@gmail.com](mailto:shaynedeizra@gmail.com)
-* 🧠  I'm learning Unity
+* 🧠  I'm learning Godot & GDSCRIPT
 * 🤝  I'm open to collaborating on pixel game project
 
 ### Skills
