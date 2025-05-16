@@ -1,7 +1,18 @@
 
 # ☘️🐑💤 Hi, I'm Deizra!👋
-꩜🐱 .ᐟ A passionate and curious **Game Developer**<br>꩜🐱 .ᐟ Learning the ropes of game development with **GDScript** and **Godot Engine**.<br>꩜🐱 .ᐟ Studying **Information Technology** at Universitas Bina Sarana Informatika, Indonesia.<br><br>## 🎮 **What I Do**<br>𐙚 **Game Development:** I build immersive experiences using Godot, primarily focusing on 2D games but excited to venture into 3D projects soon.<br>𐙚 **3D Asset Design:** I create 3D models using **Blender**, which you can find on my [Sketchfab](https://sketchfab.com/theyzra) profile.<br><br>---<br><br>## 🌱 **Currently Learning**<br>𐙚 Advanced Godot scripting and best practices<br>𐙚 Shader programming for stunning visuals<br>𐙚 Enhancing my 3D modeling skills for game-ready assets<br><br>---<br><br>## 📂 **Projects and Interests**<br>𐙚 Developing unique indie game concepts.<br>𐙚 Exploring procedural generation and AI in games.<br>𐙚 Open to collaborations on creative projects!
+An aspiring game developer from Indonesia, passionate about creating meaningful, atmospheric game experiences. <br>
+Currently pursuing a degree in **Information Technology** at *Universitas Bina Sarana Informatika*, I'm building my skills in **Godot Engine (GDScript)** and crafting games that blend gameplay with emotion and aesthetic.<br>
 
+## 🎮 **What I Do**<br>𐙚 **Game Development:** I build immersive experiences using Godot, primarily focusing on 2D games but excited to venture into 3D projects soon.<br>𐙚 **3D Asset Design:** I create 3D models using **Blender**, which you can find on my [Sketchfab](https://sketchfab.com/theyzra) profile.<br><br>---<br><br>
+
+## 🌱 **Currently Learning**<br>
+𐙚 Modular and scalable Godot game architecture <br>
+𐙚 UI/UX in games <br>
+𐙚 Level and game feel design <br>
+
+
+## 📬 Let’s Connect <br>
+I'm always open to feedback, collaboration, or mentorship. Feel free to explore my repositories, play my games, or reach out. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deizra-kalika-putri-shayne-b5a229224/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shaynedeizra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@deizra) 
