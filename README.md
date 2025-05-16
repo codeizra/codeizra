@@ -3,7 +3,10 @@
 An aspiring game developer from Indonesia, passionate about creating meaningful, atmospheric game experiences. <br>
 Currently pursuing a degree in **Information Technology** at *Universitas Bina Sarana Informatika*, I'm building my skills in **Godot Engine (GDScript)** and crafting games that blend gameplay with emotion and aesthetic.<br>
 
-## 🎮 **What I Do**<br>𐙚 **Game Development:** I build immersive experiences using Godot, primarily focusing on 2D games but excited to venture into 3D projects soon.<br>𐙚 **3D Asset Design:** I create 3D models using **Blender**, which you can find on my [Sketchfab](https://sketchfab.com/theyzra) profile.<br><br>---<br><br>
+## 🎮 **What I Do**<br>𐙚 
+**Game Development:** I build immersive experiences using Godot, primarily focusing on 2D games but excited to venture into 3D projects soon.<br>
+**3D Asset Design:** I create 3D models using **Blender**, which you can find on my [Sketchfab](https://sketchfab.com/theyzra) profile.
+<br><br>---<br><br>
 
 ## 🌱 **Currently Learning**<br>
 𐙚 Modular and scalable Godot game architecture <br>
