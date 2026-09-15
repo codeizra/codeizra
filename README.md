@@ -1,5 +1,5 @@
 ## halo, i'm deizra! 👋
-
+![Deizra's banner](./banner.png)
 # 😸 about me
 jakarta based, UX designer & occasional programmer <br>
 i design for mobile apps, games, and other things that live on screens <br>
